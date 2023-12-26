@@ -1,0 +1,14 @@
+.title{
+    background-color:rgb(12, 12, 12);
+    color:white;
+}
+#selfie{
+    position:relative;
+    border-radius: 50%;
+    border: 5px solid gray;
+    float:left;
+    position: relative;
+}
+.card-body{
+    background-color: brown;
+}
